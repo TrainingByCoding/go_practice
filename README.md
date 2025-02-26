@@ -1,2 +1,2 @@
 # go_pracitce
-programs to understand internals of go_concurrency
+programs to understand of go language and some DSA examples asked in interviews.
